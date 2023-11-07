@@ -1,0 +1,8 @@
+No|Nama|Email
+
+1 | SYAIFUL RIZAL | syaifulrizal@gmail.com 
+2 | RIZAL SYAIFUL | rizalsyaiful@gmail.com 
+3 | KIM JISOO | jisookim@gmail.com 
+4 | MRS DIOR | sooya@gmail.com 
+5 | MRS CARTIER | mbakjisoo@gmail.com 
+6 | RIZAL | rizal@gmail.com 
